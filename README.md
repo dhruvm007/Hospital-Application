@@ -1,0 +1,1 @@
+Welcome to the Hospital Management System repository! This project is designed to streamline and optimize various aspects of hospital operations. From patient registration to appointment scheduling, this system aims to enhance the efficiency and organization of a healthcare facility.
